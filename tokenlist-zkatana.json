@@ -1,0 +1,49 @@
+{
+  "name": "zKatana Token List",
+  "logoURI": "https://github.com/AstarNetwork/astar-docs/blob/main/static/img/astar-logo.svg",
+  "keywords": [],
+  "timestamp": "2024-01-29T12:26:13.698Z",
+  "tokens": [
+    {
+    "chainId": 1261120,
+    "address": "0xebb3f7644f5d523b4ca7f5d1c94ea023f1d9b066",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
+    "extensions": {}
+  },
+    {
+      "chainId": 1261120,
+      "address": "0x2dC3036683b4dFEA336Eb8b20bC974b33e408D73",
+      "name": "dUSDC",
+      "symbol": "dUSDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "extensions": {}
+    },
+    {
+      "chainId": 1261120,
+      "address": "0x4c4B5Ae7041E3718841525f3eAe0B612a8D07829",
+      "name": "Gradient Token",
+      "symbol": "GRD",
+      "decimals": 18,
+      "logoURI": "\nhttps://assets.coingecko.com/coins/images/22617/standard/astr.png?1696521933",
+      "extensions": {}
+    },
+    {
+      "chainId": 1261120,
+      "address": "0x20c842cc7d6A5c4438B10BB9B38B125d82b1d001",
+      "name": "Gradient Token",
+      "symbol": "GRD",
+      "decimals": 18,
+      "logoURI": "\nhttps://assets.coingecko.com/coins/images/22617/standard/astr.png?1696521933",
+      "extensions": {}
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
