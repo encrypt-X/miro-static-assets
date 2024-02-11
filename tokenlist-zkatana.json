@@ -28,7 +28,7 @@
       "name": "Gradient Token",
       "symbol": "GRD",
       "decimals": 18,
-      "logoURI": "\nhttps://assets.coingecko.com/coins/images/22617/standard/astr.png?1696521933",
+      "logoURI": "https://assets.coingecko.com/coins/images/22617/standard/astr.png?1696521933",
       "extensions": {}
     },
     {
@@ -37,7 +37,7 @@
       "name": "Gradient Token",
       "symbol": "GRD",
       "decimals": 18,
-      "logoURI": "\nhttps://assets.coingecko.com/coins/images/22617/standard/astr.png?1696521933",
+      "logoURI": "https://assets.coingecko.com/coins/images/22617/standard/astr.png?1696521933",
       "extensions": {}
     }
   ],
