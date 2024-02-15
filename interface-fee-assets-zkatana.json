@@ -1,22 +1,8 @@
 {
+  "portionBips": 15,
+  "portionReceipts": "0x707ecaf96ADd3946F996929A080c8672E58194F5",
   "tokens": [
-    {
-      "chainId": 1261120,
-      "address": "0xebb3f7644f5d523b4ca7f5d1c94ea023f1d9b066",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
-      "extensions": {}
-    },
-    {
-      "chainId": 1261120,
-      "address": "0x2dC3036683b4dFEA336Eb8b20bC974b33e408D73",
-      "name": "dUSDC",
-      "symbol": "dUSDC",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
-      "extensions": {}
-    }
+    "0xebb3f7644f5d523b4ca7f5d1c94ea023f1d9b066",
+    "0x2dC3036683b4dFEA336Eb8b20bC974b33e408D73"
   ]
 }
