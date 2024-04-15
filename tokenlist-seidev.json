@@ -1,0 +1,49 @@
+{
+  "name": "seiDev Token List",
+  "logoURI": "https://assets.coingecko.com/coins/images/28205/standard/Sei_Logo_-_Transparent.png?1696527207",
+  "keywords": [],
+  "timestamp": "2024-01-29T12:26:13.698Z",
+  "tokens": [
+    {
+    "chainId": 713715,
+    "address": "0x657389E6c95308BD24a9aCB40FDe474d4D580d63",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png?1696503332",
+    "extensions": {}
+  },
+    {
+      "chainId": 713715,
+      "address": "0xace5f7Ea93439Af39b46d2748fA1aC19951c8d7C",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
+      "extensions": {}
+    },
+    {
+      "chainId": 713715,
+      "address": "0xF983afa393199D6902a1Dd04f8E93465915ffD8B",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
+      "extensions": {}
+    },
+    {
+      "chainId": 713715,
+      "address": "0x6Ffd84537040569Bb8160d1E06d0A5d4CEfdf638",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9956/standard/Badge_Dai.png?1696509996",
+      "extensions": {}
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
