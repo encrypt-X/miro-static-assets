@@ -18,7 +18,7 @@
       "address": "0xace5f7Ea93439Af39b46d2748fA1aC19951c8d7C",
       "name": "USDC",
       "symbol": "USDC",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "extensions": {}
     },
@@ -27,7 +27,7 @@
       "address": "0xF983afa393199D6902a1Dd04f8E93465915ffD8B",
       "name": "USDT",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png?1696501661",
       "extensions": {}
     },
