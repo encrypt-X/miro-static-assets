@@ -6,7 +6,7 @@
   "tokens": [
     {
     "chainId": 713715,
-    "address": "0x657389E6c95308BD24a9aCB40FDe474d4D580d63",
+    "address": "0x8265967F94D9d255397eFaD6451841E673685a1C",
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
@@ -15,10 +15,10 @@
   },
     {
       "chainId": 713715,
-      "address": "0xace5f7Ea93439Af39b46d2748fA1aC19951c8d7C",
+      "address": "0xb0ec18459DFDB5c8043a660FC8498E914dccD1C5",
       "name": "USDC",
       "symbol": "USDC",
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png?1696506694",
       "extensions": {}
     },
